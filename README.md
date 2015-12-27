@@ -19,3 +19,11 @@
 - It will clear your terminal every 9 seconds, It's a good idea to run it in a multiplexer such as __tmux__ so you can multitask.
 - The OpenVPN Log File only updates every 10 seconds, so don't bother making it faster.
 - You can remove the __.sh__ extention if you want, and just run it with __./openvpncheck__
+
+It's not a Fancy way to view your OpenVPN clients, but:
+- It does the job
+- It fits in a single file
+- It's lightweight
+- It has minimal dependencies
+- It runs in the shell
+- It's better than nothing
