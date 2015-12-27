@@ -10,6 +10,7 @@
 <pre>chmod +x openvpncheck.sh</pre>
 - Run the Script with Sudo if it says you don't have permission.
 <pre>sudo openvpncheck.sh</pre>
+- Use Ctrl+C to Exit the Script.
 
 #### Optional
 - You can remove the __.sh__ extention if you want, and just run it by typing __openvpncheck__
