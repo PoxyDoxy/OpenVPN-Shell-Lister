@@ -1,5 +1,6 @@
 #!/bin/bash
-#cat /etc/openvpn/openvpn-status.log
+# OpenVPN Shell Lister / OpenVPNCheck
+# https://github.com/PoxyDoxy/OpenVPN-Shell-Lister
 while :
 do
 	# Reset the Console
